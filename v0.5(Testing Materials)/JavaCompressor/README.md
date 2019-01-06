@@ -1,0 +1,1 @@
+JavaCompressor Folder to store Compressed file.
