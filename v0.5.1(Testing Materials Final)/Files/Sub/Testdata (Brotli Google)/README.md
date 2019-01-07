@@ -1,0 +1,1 @@
+Testdata collected from Google's Brotli Compression Repository.

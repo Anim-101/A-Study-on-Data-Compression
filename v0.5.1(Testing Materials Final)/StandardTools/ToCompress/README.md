@@ -1,0 +1,1 @@
+ToCompress Folder to store Compressed and Decompressed file via gzip.exe.
