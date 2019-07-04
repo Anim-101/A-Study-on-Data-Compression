@@ -46,7 +46,7 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   | Our own versions of java program is used to test |
 |   |   |   | data with Gzip |
 |   |   |   | Ratios are measured and taken |
-|   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
+|   |   |   | 
 |   | v0.5.1 | Update (Testing Materials Final) | All from v0.5 |
 |   |   |   | Updated and Final Test Data is added |
 |   |   |   | Unit Testing Files are added |
@@ -63,10 +63,10 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   | Vitter(Basic Adaptive Huffman Vitter&#39;s Algorithm |
 |   |   |   | is followed) |
 |   |   |   | Vitter&#39;s Coder/Decoder |
-|   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
+|   |   |   | 
 |   | v0.7.1 | **Modified Vitter** | Modification is Made within Vitter&#39;s |
 |   |   |   | Tree Structure is changed |
-|   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
+|   |   |   | 
 |   | v0.7.2 | **New Vitter** | Updated Encoder/Decoder |
 |   |   |   | Old Encoder |
 |   |   |   | New Decoder |
@@ -81,10 +81,10 @@ For reference this website is followed to study/understand algorithms: https://s
 | v0.9 |   | **LZ\_ADHUF\_Vitter (Basic)** | Basic BitIo Same as v0.8 |
 |   |   |   | For ADHUF-Vitter&#39;s Algorithm is used |
 |   |   |   | Encoder/Decoder |
-|   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
+|   |   |   | 
 |   | v0.9.1 | **LZ\_ADHUF\_Vitter (Modified)** | v0.7.1&#39;s Modification is followed in ADHUF sectionOthers-Same as V0.9 |
 |   |   |   |
-|   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
+|   |   |   | 
 |   | v0.9.2 | **LZ\_ADHUF\_Vitter(New)** | As LZ is used dictionary search is not quite possibleto identify the correct word from encoder to decoderThus this new method doesn&#39;t suit as we thought.It&#39;s Limitations |
 |   |   |   |
 |   |   |   |
@@ -96,10 +96,10 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   |
 | v.1.1 |   | v0.9 with Hashing Technique | Samper as v1.0Vitter is used |
 |   |   |   |
-|   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
+|   |   |   | 
 |   | v1.2 | v0.9.1 with Hasing Technique | Same as v1.1Modified Vitter is used |
 |   |   |   |
-|   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
+|   |   |   | 
 |   |   |   | version 1.3 is not done as we have discussed theLimitation above in v0.9.2. So it&#39;s not possible for nowLater maybe some modification or diagnosis can beapplied |
 |   |   |   |
 |   |   |   |
@@ -108,4 +108,4 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   **Final Version** |
 
 
-                                            Table: Version Map of The work of entire Code Base
+                                          Table: Version Map of The work of entire Code Base
