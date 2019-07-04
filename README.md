@@ -110,8 +110,10 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   |
 |   |   |   |
 
-                                Table: Version Map of The work of entire Code Base
 | v2.0 |   | All Exes | All Runnable Exes from previous version is addedThrough cmd exe&#39;s are runnable to compress data andTo decompress data with checking ratios |
 | --- | --- | --- | --- |
 |   |   |   |
 |   |   |   **Final Version** |
+
+
+                                            Table: Version Map of The work of entire Code Base
