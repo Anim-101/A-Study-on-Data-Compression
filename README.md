@@ -18,16 +18,18 @@ For reference this website is followed to study/understand algorithms: https://s
 |   | v0.1.1 | Shannon Fano Final | Same BitIO as v0.1 |
 |   |   |   | Bugs Removed |
 
-| v0.2 |   | Huffman | Same BitIO as v0.1 |
+| Versions | Sub Versions | Version Name | Implementation |
 | --- | --- | --- | --- |
+| v0.2 |   | Huffman | Same BitIO as v0.1 |
 |   |   |   | Huffman.c |
 |   |   |   | Huffman.h |
 |   |   |   | Coder/Decoder |
 |   |   |   | HuffmanCompressor.c |
 |   |   |   | HuffmanDeCompressor.c |
 
-| v0.3 |   | Lempel Ziv | Updated BitIo |
+| Versions | Sub Versions | Version Name | Implementation |
 | --- | --- | --- | --- |
+| v0.3 |   | Lempel Ziv | Updated BitIo |
 |   |   |   | Coder/Decoder |
 |   |   |   | Lempel Ziv Implementaions |
 
@@ -50,8 +52,9 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   | Updated and Final Test Data is added |
 |   |   |   | Unit Testing Files are added |
 
-| v0.6 |   | **Adaptive Huffman-FGK** | Base BitIO from v0.4 |
+| Versions | Sub Versions | Version Name | Implementation |
 | --- | --- | --- | --- |
+| v0.6 |   | **Adaptive Huffman-FGK** | Base BitIO from v0.4 |
 |   |   |   | AdaptiveHuffman.c |
 |   |   |   | FGK.c(Basic Adaptive Huffman is Followed) |
 |   |   |   | FGK coder/Decoder |
@@ -71,14 +74,16 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   | Old Encoder |
 |   |   |   | New Decoder |
 
-| v0.8 |   | **LZ\_ADHUF\_FGK** | Base BitIO from v0.4 |
+| Versions | Sub Versions | Version Name | Implementation |
 | --- | --- | --- | --- |
+| v0.8 |   | **LZ\_ADHUF\_FGK** | Base BitIO from v0.4 |
 |   |   |   | v0.6&#39;s ADHUF-FGK is used |
 |   |   |   | Linked List is used for Lempel Ziv |
 |   |   |   | Final Coder/Decoder |
 
-| v0.9 |   | **LZ\_ADHUF\_Vitter (Basic)** | Basic BitIo Same as v0.8 |
+| Versions | Sub Versions | Version Name | Implementation |
 | --- | --- | --- | --- |
+| v0.9 |   | **LZ\_ADHUF\_Vitter (Basic)** | Basic BitIo Same as v0.8 |
 |   |   |   | For ADHUF-Vitter&#39;s Algorithm is used |
 |   |   |   | Encoder/Decoder |
 |   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
@@ -98,8 +103,9 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   |
 |   |   |   |
 
-| v.1.1 |   | v0.9 with Hashing Technique | Samper as v1.0Vitter is used |
+| Versions | Sub Versions | Version Name | Implementation |
 | --- | --- | --- | --- |
+| v.1.1 |   | v0.9 with Hashing Technique | Samper as v1.0Vitter is used |
 |   |   |   |
 |   |   |   | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* |
 |   | v1.2 | v0.9.1 with Hasing Technique | Same as v1.1Modified Vitter is used |
@@ -110,8 +116,9 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   |
 |   |   |   |
 
-| v2.0 |   | All Exes | All Runnable Exes from previous version is addedThrough cmd exe&#39;s are runnable to compress data andTo decompress data with checking ratios |
+| Versions | Sub Versions | Version Name | Implementation |
 | --- | --- | --- | --- |
+| v2.0 |   | All Exes | All Runnable Exes from previous version is addedThrough cmd exe&#39;s are runnable to compress data andTo decompress data with checking ratios |
 |   |   |   |
 |   |   |   **Final Version** |
 
