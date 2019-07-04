@@ -32,8 +32,8 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   | Lempel Ziv Implementaions |
 |   |   |   |
 |   |   |   |
-| *v0.4* |   | **Update to All Previous Version** | All Old Versions are Updated with Time Constrains |
-|   |   | **Also new Updates are added Later** | Newly created Versions are also Added here with |
+| *v0.4* |   | **Update to All Previous Version, Also new Updates are added Later** | All Old Versions are Updated with Time Constrains |
+|   |   |   | Newly created Versions are also Added here with |
 |   |   |   | fewer printing options with Time Constraints |
 |   |   |   |
 |   |   |   |
