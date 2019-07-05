@@ -106,7 +106,7 @@ For reference this website is followed to study/understand algorithms: https://s
 |   |   |   |
 |   |   |   |
 |   |   |   | 
-| *v.1.1* |   | **v0.9 with Hashing Technique** | Samper as v1.0Vitter is used |
+| *v.1.1* |   | **v0.9 with Hashing Technique** | Same as v1.0Vitter is used |
 |   |   |   |
 |   |   |   | 
 |   | *v1.2* | **v0.9.1 with Hasing Technique** | Same as v1.1Modified Vitter is used |
